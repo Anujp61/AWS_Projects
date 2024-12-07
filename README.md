@@ -48,5 +48,4 @@ ChatBOT is an AI-powered conversational agent trained on extensive human convers
 - **Jenkins**: For CI/CD automation.
 - **Terraform**: For infrastructure provisioning.
 
-## Conclusion
-By combining DevSecOps practices with modern technologies like Kubernetes, Docker, Jenkins, and Terraform, we ensure a secure, scalable, and efficient deployment of the ChatBOT application. This enhances user engagement and satisfaction while maintaining robust security and operational efficiency.
+## In Process
